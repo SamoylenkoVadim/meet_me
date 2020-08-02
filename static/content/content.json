@@ -1,0 +1,8 @@
+{
+    "start_handler": {
+        "hello": "Привет"
+    },
+    "help_handler": {
+        "help": "Эта раздел с помощью"
+    }
+}
